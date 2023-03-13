@@ -1,3 +1,4 @@
 opencv-python-headless
 camelot-py
 streamlit
+XlsxWriter==3.0.3
