@@ -23,7 +23,7 @@ st.title("📋 Transformando bases em PDF para Excel")
 # st.subheader("with `Camelot` Python library")
 
 # st.markdown('Este é um transformador seguro de bases salvas em um arquivo PDF para Excel, onde os arquivos aqui carregados não são salvos, copiados ou armezados pela Blue AI em nenhum momento. Esta aplicação é gratuita, você pode usar quando e o quanto quiser. O código desta aplicação em breve estará aberto e será público.')
-st.caption('Feito com 🧠 por [Blue AI](https://blueai.com.br/).')
+st.caption('Feito com 🧠 por [Blue AI](https://blueai.com.br/)')
 st.info('Este é um transformador seguro de bases salvas em um arquivo PDF para Excel, onde **os arquivos aqui carregados não são salvos, copiados ou armezados pela Blue AI** em nenhum momento. Esta aplicação é gratuita, **você pode usar quando e o quanto quiser**. O código desta aplicação em breve estará aberto e será público.')
 
 # file uploader on streamlit 
